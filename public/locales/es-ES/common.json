@@ -1,19 +1,19 @@
 {
   "common": {
-    "homepage": "Startseite",
+    "homepage": "Inicio",
     "logoImageAltText": "Logo"
   },
   "price": {
-    "free": "Kostenloss"
+    "free": "Gratis"
   },
   "navigation": {
-    "mobileMenuButton": "Menü öffnen"
+    "mobileMenuButton": "Abrir menú"
   },
   "time": {
-    "month": "Monat"
+    "month": "Mes"
   },
   "socials": {
-    "findUsOn": "Finden Sie uns auf",
+    "findUsOn": "Nos puedes encontrar en",
     "twitter": "Twitter",
     "facebook": "Facebook",
     "linkedin": "LinkedIn",
@@ -24,7 +24,7 @@
   },
   "error": {
     "code": "{{code}} error",
-    "componentNotFound": "Komponente nicht gefunden",
-    "somethingWentWrong": "50 / 5,000\nTranslation results\nEtwas ist schief gelaufen, überprüfen Sie Ihre URL und versuchen Sie es erneut"
+    "componentNotFound": "Componente no encontrado.",
+    "somethingWentWrong": "Algo ha ido mal, revisa tu url y prueba otra vez"
   }
 }
