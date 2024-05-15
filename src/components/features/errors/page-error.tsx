@@ -72,6 +72,7 @@ export const PageError = (props: PropsInterface) => {
                   <Typography variant="h4">{error.message}</Typography>
                 </div>
               )}
+              Esto sigue fallando
             </Grid>
           </Grid>
         </Container>
