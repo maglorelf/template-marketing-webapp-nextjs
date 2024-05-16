@@ -296,9 +296,9 @@ export const CtfFooter = (props: FooterFieldsFragment) => {
               )}
             </nav>
           )}
-          <section className={classes.footerEndSection}>
+          {/* <section className={classes.footerEndSection}>
             <LanguageSelector />
-          </section>
+          </section> */}
         </footer>
       </Container>
       <Container maxWidth={false} className={classes.footerCorporateContainer}>
